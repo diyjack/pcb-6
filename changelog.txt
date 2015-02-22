@@ -1,0 +1,39 @@
+================================================================================
+VERSION 8.3
+<date>
+<author>
+================================================================================
+fixture.brd
+fixture.sch
+<your changes>
+
+Files:
+fixture.brd
+fixture.sch
+TS5A23159.lbr
+VX4SUGY91M.lbr
+changelog.txt
+
+================================================================================
+VERSION 8.2
+02/15/2015
+Christopher Martin
+================================================================================
+fixture.brd
+fixture.sch
+Changed the pin outs for the status LEDs to use all of Port D.
+LED block and resistors were moved around and traces added to connect them.
+Added Product name, version, date, and authors to (25) tNames layer.
+
+
+VX4SUGY91M.lbr
+Changed the pin names from P$1 ... P$8 to 1 ... 8
+Changed the pin mapping so the left of the package is all green anodde and 
+the right is yellow anode.
+
+Files:
+fixture.brd
+fixture.sch
+TS5A23159.lbr
+VX4SUGY91M.lbr
+changelog.txt
